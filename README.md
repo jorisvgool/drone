@@ -1,6 +1,6 @@
 # Drone Theorie Quiz — Specific Category (STS)
 
-Interactieve oefenquiz voor de theorie van de Specific Category drone-opleiding (STS-01 / STS-02).
+Interactieve oefenquiz voor de theorie van de Specific Category drone-opleiding (STS).
 
 ## Inhoud
 
